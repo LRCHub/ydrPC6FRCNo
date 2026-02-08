@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "DOMINANCE",
+  "base_artist": "INI",
+  "createdAt": "2026-02-08T14:58:53.299502Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dominance and Submission",
+      "artist": "Blue Öyster Cult",
+      "has_synced": true,
+      "path": "select/01_Dominance_and_Submission_Blue_Öyster_Cult.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dominance and Submission",
+      "artist": "Blue Öyster Cult",
+      "has_synced": true,
+      "path": "select/02_Dominance_and_Submission_Blue_Öyster_Cult.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dominance and Submission - Live",
+      "artist": "Blue Öyster Cult",
+      "has_synced": true,
+      "path": "select/03_Dominance_and_Submission_-_Live_Blue_Öyster_Cult.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dominance And Submission [Live]",
+      "artist": "Blue Öyster Cult",
+      "has_synced": true,
+      "path": "select/04_Dominance_And_Submission_[Live]_Blue_Öyster_Cult.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Icon of Dominance",
+      "artist": "Lordi",
+      "has_synced": true,
+      "path": "select/05_Icon_of_Dominance_Lordi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dominance and Submission (live)",
+      "artist": "Blue Öyster Cult",
+      "has_synced": true,
+      "path": "select/06_Dominance_and_Submission_(live)_Blue_Öyster_Cult.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Invoking Dominance",
+      "artist": "Hatebreed",
+      "has_synced": true,
+      "path": "select/07_Invoking_Dominance_Hatebreed.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Impending Dominance",
+      "artist": "Ingested",
+      "has_synced": false,
+      "path": "select/08_Impending_Dominance_Ingested.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Impending Dominance (Single)",
+      "artist": "Ingested",
+      "has_synced": true,
+      "path": "select/09_Impending_Dominance_(Single)_Ingested.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Full Spectrum Dominance",
+      "artist": "Zonaria",
+      "has_synced": false,
+      "path": "select/10_Full_Spectrum_Dominance_Zonaria.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Savage Dominance",
+      "artist": "Midnight",
+      "has_synced": false,
+      "path": "select/11_Savage_Dominance_Midnight.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dominance & Submission",
+      "artist": "RagnaRok",
+      "has_synced": true,
+      "path": "select/12_Dominance_&_Submission_RagnaRok.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Icon of Dominance",
+      "artist": "Lordi",
+      "has_synced": true,
+      "path": "select/13_Icon_of_Dominance_Lordi.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dominance And Submission",
+      "artist": "Blue Öyster Cult",
+      "has_synced": true,
+      "path": "select/14_Dominance_And_Submission_Blue_Öyster_Cult.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Full Spectrum Dominance",
+      "artist": "Killing Joke",
+      "has_synced": true,
+      "path": "select/15_Full_Spectrum_Dominance_Killing_Joke.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Dominance",
+      "artist": "The Irrepressibles",
+      "has_synced": false,
+      "path": "select/16_Dominance_The_Irrepressibles.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Dominance By Acquisition",
+      "artist": "Sinister",
+      "has_synced": false,
+      "path": "select/17_Dominance_By_Acquisition_Sinister.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DOMINANCE",
+      "artist": "INI",
+      "has_synced": false,
+      "path": "select/pl_01_DOMINANCE_INI.txt"
+    }
+  ]
+}
